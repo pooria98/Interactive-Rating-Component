@@ -11,10 +11,14 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
+### Screenshot
+
+![screenshot](screenshot/interactive%20rating.png)
+
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-with-javascript-nUrExQbun6]
-- Live Site URL: [https://pooria98.github.io/Interactive-Rating-Component/]
+- Solution URL: [Interactive rating component solution](https://www.frontendmentor.io/solutions/interactive-rating-component-with-javascript-nUrExQbun6)
+- Live Site URL: [Live Site](https://pooria98.github.io/Interactive-Rating-Component/)
 
 ### Built with
 
